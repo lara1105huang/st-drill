@@ -5,3 +5,6 @@
     background: url(http://localhost/studio/upload/Banner/F_201803181557Yco99l93.JPG) 78% no-repeat;
     border-radius: .3rem;
 }
+.jumbotron-size{
+    height:350px;
+}
